@@ -1,9 +1,11 @@
- package main
+package main
 
- import (
-   "fmt"
- )
+import (
+	"fmt"
+)
 
- func main() {
-   fmt.Println("Hello, Let's go!")
- }
+func main() {
+	fmt.Println("Hello, Let's go!")
+}
+
+func fred_1() {}
